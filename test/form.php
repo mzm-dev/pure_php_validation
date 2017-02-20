@@ -25,8 +25,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 
 <form method='post'>
-    Name : <input type="text" name="name">
-    Name : <input type="text" name="name">
     <table>
         <tr>
             <td>Name</td>
