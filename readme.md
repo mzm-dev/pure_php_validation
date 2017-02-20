@@ -2,7 +2,7 @@
 This class library useful for form or data submit form validation to PHP function. This library only for study and it can make extended for other library validation. This validation concept inspire from [CodeIgnater Validation Library](https://www.codeigniter.com/userguide3/libraries/form_validation.html#callbacks-your-own-validation-methods)
 
 # Setup
-  - [Download](https://www.codeigniter.com/userguide3/libraries/form_validation.html#callbacks-your-own-validation-methods)
+  - [Download](https://github.com/mzm-dev/pure_php_validation/archive/master.zip)
   - Create folder 'library' in project folder or put in validation.php in your own library folder
 
 # How to use

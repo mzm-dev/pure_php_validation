@@ -5,7 +5,7 @@
  *
  * @package    Validation
  * @author     Mohamad Zaki Mustafa
- * @link       https://github.com/mzm-dev/php_validation
+ * @link       https://github.com/mzm-dev/pure_php_validation/
  * @contact    mohdzaki04@gmail.com
  * @fb         https://www.facebook.com/akifiz
  * @tw         https://twitter.com/mzmfizaki
